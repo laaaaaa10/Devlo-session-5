@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=Cegep.schdoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Cegep.schdoc|FileName=PCB_3.schdot|SheetNumber=2
+Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_Cegep|SchDesignator=U_Cegep|FileName=Cegep.schdoc|SheetNumber=2|SymbolType=Normal|RawFileName=Cegep.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Sheet1.SchDoc|Designator=U_Cegep2|SchDesignator=U_Cegep2|FileName=Cegep2.schdoc|SheetNumber=3|SymbolType=Normal|RawFileName=Cegep2.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
