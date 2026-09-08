@@ -52,6 +52,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ADDBJFFC
+
+[Document2]
 DocumentPath=Librairies\TEP-AltiumLib-Hardware.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -68,7 +85,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYRFXJUM
 
-[Document2]
+[Document3]
 DocumentPath=Librairies\TEP-AltiumLib.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKEQSCNM
 
-[Document3]
+[Document4]
 DocumentPath=Librairies\TEP-AltiumLib-Passives.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPGBCCIW
 
-[Document4]
+[Document5]
 DocumentPath=Librairies\TEP-AltiumLib-Discretes.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSJTQSXA
 
-[Document5]
+[Document6]
 DocumentPath=Librairies\TEP-AltiumLib-Connectors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GTBXXYJW
 
-[Document6]
+[Document7]
 DocumentPath=Librairies\TEP-AltiumLib-Passives.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNSXWBGN
 
-[Document7]
+[Document8]
 DocumentPath=Librairies\TEP-AltiumLib-Modules.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DIBMEKYL
 
-[Document8]
+[Document9]
 DocumentPath=Librairies\TEP-AltiumLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QKERWZYL
 
-[Document9]
+[Document10]
 DocumentPath=Librairies\TEP-AltiumLib-TP-MH-Tooling-Logo.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEEQDRYS
 
-[Document10]
+[Document11]
 DocumentPath=Librairies\TEP-AltiumLib-ICs.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AIMVCKTL
 
-[Document11]
+[Document12]
 DocumentPath=Librairies\TEP-AltiumLib-Passives-RLC.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,14 +255,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=BUS.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -255,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLPNTIFS
 
-[Document13]
+[Document14]
 DocumentPath=CONN.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVPIWYZS
 
-[Document14]
+[Document15]
 DocumentPath=MCP3423.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDEMLKLU
 
-[Document15]
+[Document16]
 DocumentPath=PCAL64.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCVBDRXD
 
-[Document16]
+[Document17]
 DocumentPath=TMUX130.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,7 +340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GKJXGSZH
 
-[Document17]
+[Document18]
 DocumentPath=MKicroBUS.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1

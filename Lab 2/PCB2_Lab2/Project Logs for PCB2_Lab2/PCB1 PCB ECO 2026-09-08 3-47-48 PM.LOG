@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=3v3 Pin=C6-2
+Removed Pin From Net: NetName=3v3 Pin=S1-1
+Removed Pin From Net: NetName=3v3 Pin=S1-2
+Removed Pin From Net: NetName=3v3 Pin=S3-1
+Removed Member From Class: ClassName=U_MCP3423 Member=C6
+Removed Member From Class: ClassName=U_PCAL64 Member=S3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=R1 NewDesignator=R17
+Change Component Designator: OldDesignator=R2 NewDesignator=R18
+Change Component Designator: OldDesignator=R3 NewDesignator=R19
+Change Component Designator: OldDesignator=R4 NewDesignator=R20
+Change Component Designator: OldDesignator=R5 NewDesignator=R21
+Change Component Designator: OldDesignator=R6 NewDesignator=R22
+Change Component Designator: OldDesignator=R7 NewDesignator=R23
+Change Component Designator: OldDesignator=R8 NewDesignator=R24
+Change Component Designator: OldDesignator=R9 NewDesignator=R25
+Change Component Designator: OldDesignator=R10 NewDesignator=R1
+Change Component Designator: OldDesignator=R11 NewDesignator=R2
+Change Component Designator: OldDesignator=R12 NewDesignator=R3
+Change Component Designator: OldDesignator=R13 NewDesignator=R4
+Change Component Designator: OldDesignator=R14 NewDesignator=R5
+Change Component Designator: OldDesignator=R15 NewDesignator=R6
+Change Component Designator: OldDesignator=R16 NewDesignator=R7
+Change Component Designator: OldDesignator=R17 NewDesignator=R8
+Change Component Designator: OldDesignator=R18 NewDesignator=R9
+Change Component Designator: OldDesignator=R19 NewDesignator=R10
+Change Component Designator: OldDesignator=R20 NewDesignator=R11
+Change Component Designator: OldDesignator=R21 NewDesignator=R12
+Change Component Designator: OldDesignator=R22 NewDesignator=R13
+Change Component Designator: OldDesignator=R23 NewDesignator=R14
+Change Component Designator: OldDesignator=R24 NewDesignator=R15
+Change Component Designator: OldDesignator=R25 NewDesignator=R16
+Change Component Designator: OldDesignator=SB3 NewDesignator=SB1
+Change Component Designator: OldDesignator=SB4 NewDesignator=SB2
+Change Component Designator: OldDesignator=SB5 NewDesignator=SB3
+Added Component: Designator=C1(C_2012[0805])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "KCOND0142SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "CAP008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C49678"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "KCOND01SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "CAP001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0402KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C131394"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=S1(S_DIP_SWITCH_50MIL_4POS)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "kangshen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DSHP04TSGER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = "A6H-4102-PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C3293144"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "C2733274"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "39-A6H-4102-PMCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DIP Switch 4pos"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3v3 Pin=C3-2
+Added Pin To Net: NetName=3v3 Pin=S1-2
+Added Pin To Net: NetName=3v3 Pin=S1-3
+Added Pin To Net: NetName=3v3 Pin=S1-4
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetSB3_2 New Net Name=NetSB1_2
+Added Pin To Net: NetName=SW1 Pin=R25-1
+Added Pin To Net: NetName=SW1 Pin=S1-7
+Added Pin To Net: NetName=SW1 Pin=U2-21
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=R20-1
+Added Pin To Net: NetName=SW2 Pin=S1-6
+Added Pin To Net: NetName=SW2 Pin=U1-9
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=R19-1
+Added Pin To Net: NetName=SW3 Pin=S1-5
+Added Pin To Net: NetName=SW3 Pin=U1-10
+Added Net: Name=SW3
+Added Member To Class: ClassName=U_MCP3423 Member=Component C3 CAP CER 100nF 50V 0402
+Added Member To Class: ClassName=BUS Member=Component S1 DSHP04TSGER
