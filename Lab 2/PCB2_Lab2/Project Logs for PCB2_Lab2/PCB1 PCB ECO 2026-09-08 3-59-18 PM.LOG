@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=U_PCAL64 Member=C2
+Removed Member From Class: ClassName=U_MCP3423 Member=R1
+Removed Member From Class: ClassName=U_PCAL64 Member=R3
+Removed Member From Class: ClassName=U_PCAL64 Member=R16
+Removed Member From Class: ClassName=U_CONN Member=R18
+Removed Member From Class: ClassName=U_CONN Member=R20
+Removed Member From Class: ClassName=U_CONN Member=R23
+Removed Member From Class: ClassName=U_CONN Member=R24
+Added Member To Class: ClassName=U_MCP3423 Member=Component C1 CAP CER 100nF 50V 0805
+Added Member To Class: ClassName=U_MCP3423 Member=Component C3 CAP CER 100nF 50V 0402
+Added Member To Class: ClassName=U_PCAL64 Member=Component C5 CAP CER 100nF 50V 0402
+Added Member To Class: ClassName=U_TMUX130 Member=Component C6 CAP CER 100nF 50V 0402
+Added Member To Class: ClassName=U_CONN Member=Component R2 Res 100R 1% 0603
+Added Member To Class: ClassName=U_CONN Member=Component R4 Res 100R 1% 0603
+Added Member To Class: ClassName=U_CONN Member=Component R7 Res 100R 1% 0603
+Added Member To Class: ClassName=U_CONN Member=Component R8 Res 100R 1% 0603
+Added Member To Class: ClassName=U_CONN Member=Component R10 Res 100R 1% 0603
+Added Member To Class: ClassName=U_CONN Member=Component R12 Res 100R 1% 0603
+Added Member To Class: ClassName=U_CONN Member=Component R14 Res 100R 1% 0603
+Added Member To Class: ClassName=U_CONN Member=Component R15 Res 100R 1% 0603
+Added Member To Class: ClassName=U_MCP3423 Member=Component R19 Res 10k 1% 0402
+Added Member To Class: ClassName=U_PCAL64 Member=Component R21 Res 10k 1% 0402
+Added Member To Class: ClassName=U_PCAL64 Member=Component R25 Res 10k 1% 0402
+Added Member To Class: ClassName=BUS Member=Component S1 DSHP04TSGER
+Added Member To Class: ClassName=BUS Member=Component SB1 Open
+Added Member To Class: ClassName=BUS Member=Component SB2 Open
