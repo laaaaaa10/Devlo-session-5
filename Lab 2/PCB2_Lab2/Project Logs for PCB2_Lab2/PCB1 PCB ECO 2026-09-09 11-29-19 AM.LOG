@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=MB1 Old Footprint=mikroBUS-Large-No-Connector New Footprint=mikroBUS-Midi-No-Connector
+Added Member To Class: ClassName=U_CONN Member=Component R14 Res 100R 1% 0603
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
