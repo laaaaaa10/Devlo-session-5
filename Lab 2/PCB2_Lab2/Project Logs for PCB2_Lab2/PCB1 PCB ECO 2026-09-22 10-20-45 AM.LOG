@@ -1,0 +1,224 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R2 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R3 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R4 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R5 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R6 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R7 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R8 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R9 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R10 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R11 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R12 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R13 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R14 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R15 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component DesignItemId : Designator=R16 Old DesignItemId=RES029 New DesignItemId=RES015
+Change Component Comment : Designator=R1 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R2 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R3 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R4 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R5 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R6 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R7 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R8 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R9 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R10 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R11 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R12 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R13 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R14 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R15 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change Component Comment : Designator=R16 Old Comment=Res 100R 1% 0603 New Comment=Res 1k 1% 0603
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\EYSOZPQY" ("\OCUWUEQR\EYSOZPQY")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\QNPIJWBI" ("\OCUWUEQR\QNPIJWBI")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\YLZNDCPY" ("\OCUWUEQR\YLZNDCPY")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\IFTYEVLX" ("\OCUWUEQR\IFTYEVLX")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\MRQJUDKG" ("\OCUWUEQR\MRQJUDKG")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\HBIPCXUZ" ("\OCUWUEQR\HBIPCXUZ")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\DXQORERR" ("\OCUWUEQR\DXQORERR")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\OQHIRWUU" ("\OCUWUEQR\OQHIRWUU")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\ZEIFGPQT" ("\OCUWUEQR\ZEIFGPQT")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\TIXBZUJK" ("\OCUWUEQR\TIXBZUJK")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\WIMTIGQD" ("\OCUWUEQR\WIMTIGQD")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\GODKMMWV" ("\OCUWUEQR\GODKMMWV")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\NJHYKOUX" ("\OCUWUEQR\NJHYKOUX")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\FQIRUGGN" ("\OCUWUEQR\FQIRUGGN")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\UTRUDJDW" ("\OCUWUEQR\UTRUDJDW")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "R_1608[0603]"; UniqueID = "\OCUWUEQR\VURYCJWS" ("\OCUWUEQR\VURYCJWS")
+Change component parameters (AddParameter): Name = "LibRef"; Value = "RES015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Puissance"; Value = "1/10W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C22548"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"

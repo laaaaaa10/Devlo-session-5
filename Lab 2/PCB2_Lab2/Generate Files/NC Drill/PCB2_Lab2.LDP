@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: U:\Session 5\Devlo-session-5\Lab 2\PCB2_Lab2\PCB1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb2_lab2-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcb2_lab2-nonplated.txt|DrillLayers=gtl,gbl
