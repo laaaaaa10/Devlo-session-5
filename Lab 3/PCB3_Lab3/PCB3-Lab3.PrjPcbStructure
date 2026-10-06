@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=BUS.schdoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=BUS.schdoc|Designator=U_Buck-Boost-5V|SchDesignator=U_Buck-Boost-5V|FileName=Buck-Boost-5V.schdoc|SheetNumber=3|SymbolType=Normal|RawFileName=Buck-Boost-5V.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BUS.schdoc|Designator=U_Level-Translator|SchDesignator=U_Level-Translator|FileName=Level-Translator.schdoc|SheetNumber=4|SymbolType=Normal|RawFileName=Level-Translator.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BUS.schdoc|Designator=U_PMOD-Type2-SPI|SchDesignator=U_PMOD-Type2-SPI|FileName=PMOD-Type2-SPI.schdoc|SheetNumber=2|SymbolType=Normal|RawFileName=PMOD-Type2-SPI.schdoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

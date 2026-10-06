@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+U:\Session 5\Devlo-session-5\Lab 3\PCB3_Lab3\.\Generate Files\Pick Place\PCB3-Lab3.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06-10-26
+Time:       13:23
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P1","61300211121","TopLayer","CONN_HDR_2POS_100MILS_TH","16.7300","33.0000","0","CONN HEADER 2POS 100MIL"
+"C9","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","19.5149","9.1733","270","Capacitor type 1"
+"C8","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","17.0887","14.8262","0","Capacitor type 1"
+"C5","CAP CER 100nF 50V 0603","BottomLayer","C_1608[0603]","19.3837","27.4303","90","Capacitor type 1"
+"C2","CAP CER 100nF 50V 0805","TopLayer","C_2012[0805]","18.1941","26.1055","180","Capacitor type 1"
+"C6","CAP CER 100uF 10V 1206","TopLayer","C_3216[1206]","17.8011","23.7974","180","Capacitor type 1"
+"C7","CAP CER 10uF 10V X?? 0805","TopLayer","C_2012[0805]","18.2491","19.5858","180","Capacitor type 1"
+"C4","CAP CER 10uF 10V X?? 0805","BottomLayer","C_2012[0805]","13.1083","23.5318","90","Capacitor type 1"
+"C3","CAP CER 10uF 10V X?? 0805","BottomLayer","C_2012[0805]","10.5878","22.5988","90","Capacitor type 1"
+"C1","CAP CER 10uF 10V X?? 0805","TopLayer","C_2012[0805]","18.1941","21.5362","180","Capacitor type 1"
+"J1","CONN-2MM54-2POS-TERM-BLOCK","TopLayer","CONN_TERM_BLOCK_2POS_100MIL","6.0000","20.7300","90","CONN TERM BLOCK 2POS 100mil pitch"
+"J2","CONN-2MM54-4POS-TERM-BLOCK","TopLayer","CONN_TERM_BLOCK_4POS_100MIL","6.0000","7.7300","90","CONN TERM BLOCK 4POS 100mil pitch"
+"MH?","DNP","TopLayer","MP_M-Hole_#4-40_LOOSE-FIT","5.8883","31.4262","0","Mounting Hole #4-40 w/ Flat Washer"
+"L1","Inductor 1UH 1.6A 51mO SMD","BottomLayer","L_3030[1212]","17.0000","18.1475","0","Inductor type 1"
+"R6","Res 100k 1% 0603","TopLayer","R_1608[0603]","14.9839","11.4157","270","Resistor type 1"
+"R5","Res 100k 1% 0603","BottomLayer","R_1608[0603]","13.4088","26.9565","180","Resistor type 1"
+"R3","Res 100k 1% 0603","BottomLayer","R_1608[0603]","17.0000","26.9565","180","Resistor type 1"
+"R2","Res 100R 1% 0603","TopLayer","R_1608[0603]","19.5014","14.0817","90","Resistor type 1"
+"R1","Res 100R 1% 0603","TopLayer","R_1608[0603]","17.0183","8.3987","180","Resistor type 1"
+"R4","Res 1k 1% 0603","BottomLayer","R_1608[0603]","20.0124","22.4933","270","Resistor type 1"
+"U1","TPS63061DSCR","BottomLayer","U_WSON50P300X300X80-10N","16.9407","23.6707","270","IC REG BUCK BOOST 5V 2A 10WSON"
+"U2","TXU0102DCUR","TopLayer","U_VSSOP50P310X200X90-8N","17.2923","11.5481","90","Two channel fixed-direction level shifter 8-VSSOP"
+"DS1","XL-1608UGC-04","TopLayer","D_LED_0603","18.8014","16.9888","0","LED Green Clear 40mcd 140deg"
+"P2","ZX-PZ2.54-1-6PZZ","BottomLayer","CONN_HDR_01X06_100MIL","12.5565","10.9179","90","Conn. Header 6pos 100mils"

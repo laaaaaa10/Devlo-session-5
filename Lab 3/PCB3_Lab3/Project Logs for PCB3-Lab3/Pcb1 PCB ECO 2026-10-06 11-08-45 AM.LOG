@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=C5 Old DesignItemId=CAP008 New DesignItemId=CAP002
+Change Component Footprint: Designator=C5 Old Footprint=C_2012[0805] New Footprint=C_1608[0603]
+Change Component Comment : Designator=C5 Old Comment=CAP CER 100nF 50V 0805 New Comment=CAP CER 100nF 50V 0603
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C_2012[0805]"; UniqueID = "\DBFGNHOA\RFJKPKPO" ("\DBFGNHOA\RFJKPKPO")
+Change component parameters (AddParameter): Name = "Code CEGEP"; Value = "COND0143SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibRef"; Value = "CAP002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"

@@ -4,9 +4,9 @@ U:\Session 5\Devlo-session-5\Lab 2\PCB2_Lab2\.\Generate Files\Pick Place\PCB2_La
 ========================================================================================================================
 File Design Information:
 
-Date:       22-09-26
-Time:       12:08
-Revision:   5ab86bad9d9ed2b5d4de1364bfc4a9100cc23353
+Date:       30-09-26
+Time:       13:51
+Revision:   e245402882f09571d476629cfec5e4b21049042f
 Variant:    No variations
 Units used: mm
 
@@ -16,18 +16,17 @@ Units used: mm
 "C6","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","11.1760","13.2080","0","Capacitor type 1"
 "C5","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","11.1760","14.6050","0","Capacitor type 1"
 "C4","CAP CER 100nF 50V 0603","TopLayer","C_1608[0603]","10.1600","25.3880","270","Capacitor type 1"
+"BRK1","DNP","TopLayer","BK_CRACK1B_M","0.0000","26.5000","270","Mouse Bites"
 "Fid3","DNP","TopLayer","FD_Fiducial","30.2260","26.3396","90","Fiducial mark for alignement and Pick&Place"
-"Fid4","DNP","TopLayer","FD_Fiducial","12.5730","47.7520","90","Fiducial mark for alignement and Pick&Place"
-"Fid2","DNP","TopLayer","FD_Fiducial","11.2260","-4.7615","90","Fiducial mark for alignement and Pick&Place"
+"Fid4","DNP","TopLayer","FD_Fiducial","30.0000","0.0000","90","Fiducial mark for alignement and Pick&Place"
+"Fid2","DNP","TopLayer","FD_Fiducial","-5.0000","0.0000","90","Fiducial mark for alignement and Pick&Place"
 "Fid1","DNP","TopLayer","FD_Fiducial","-4.8260","26.3015","0","Fiducial mark for alignement and Pick&Place"
 "MH4","DNP","TopLayer","MP_M-Hole_M2-NonPlated","30.1761","-4.8133","90","Mounting Hole 2mm non plated"
 "MH3","DNP","TopLayer","MP_M-Hole_M2-NonPlated","-4.7579","-4.7615","90","Mounting Hole 2mm non plated"
-"MH2","DNP","TopLayer","MP_M-Hole_M2-NonPlated","30.2260","47.7520","90","Mounting Hole 2mm non plated"
+"MH2","DNP","TopLayer","MP_M-Hole_M2-NonPlated","30.2260","40.7520","90","Mounting Hole 2mm non plated"
 "MH1","DNP","TopLayer","MP_M-Hole_M2-NonPlated","-4.8260","40.3860","0","Mounting Hole 2mm non plated"
 "BRK4","DNP","TopLayer","BK_CRACK1B_M","25.4000","26.3920","90","Mouse Bites"
 "BRK3","DNP","TopLayer","BK_CRACK1B_M","11.1840","0.0000","0","Mouse Bites"
-"BRK2","DNP","TopLayer","BK_CRACK1B_M","12.8350","42.9260","180","Mouse Bites"
-"BRK1","DNP","TopLayer","BK_CRACK1B_M","0.0000","26.3920","270","Mouse Bites"
 "S1","DSHP04TSGER","BottomLayer","S_DIP_SWITCH_50MIL_4POS","12.5730","22.4770","270","SWITCH DIP SLIDE SPST 25MA 24V, pitch 1.27mm, height 1.55mm"
 "P2","ESQ-108-14-T-S","TopLayer","CONN_SKT_01X08_100MIL-ELEVATED-LONGPIN","24.1300","12.7000","270","CONN SOCKET 8pos 100mils Elevated"
 "P1","ESQ-108-14-T-S","TopLayer","CONN_SKT_01X08_100MIL-ELEVATED-LONGPIN","1.2700","12.7000","270","CONN SOCKET 8pos 100mils Elevated"
